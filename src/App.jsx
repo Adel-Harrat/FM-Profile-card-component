@@ -16,7 +16,7 @@ const App = () => {
       />
 
       <img
-        src="public/images/bg-pattern-bottom.svg"
+        src="./images/bg-pattern-bottom.svg"
         alt="background pattern bottom"
         className="absolute -bottom-40 -right-40 w-[50rem] lg:bottom-[-30rem] lg:-right-32x"
       />
