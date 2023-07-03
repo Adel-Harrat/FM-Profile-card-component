@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-darkCyan relative overflow-hidden grid place-items-center font-kumbh">
       <img
-        src="public/images/bg-pattern-top.svg"
+        src="./images/bg-pattern-top.svg"
         alt="background pattern top"
         className="absolute -top-40 -left-40 w-[50rem] lg:-top-96 lg:-left-36"
       />
